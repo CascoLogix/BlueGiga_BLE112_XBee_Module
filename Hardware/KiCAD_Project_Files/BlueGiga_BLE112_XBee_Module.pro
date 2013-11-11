@@ -1,6 +1,6 @@
-update=11/7/2013 6:27:21 PM
+update=11/10/2013 11:47:39 AM
 version=1
-last_client=kicad
+last_client=pcbnew
 [cvpcb]
 version=1
 NetITyp=0
@@ -11,13 +11,15 @@ LibDir=
 NetType=0
 [cvpcb/libraries]
 EquName1=devcms
+[general]
+version=1
 [eeschema]
 version=1
 PageLayoutDescrFile=
 SubpartIdSeparator=0
 SubpartFirstId=65
 LibDir=
-NetFmtName=
+NetFmtName=PcbnewAdvanced
 RptD_X=0
 RptD_Y=100
 RptLab=1
@@ -75,10 +77,10 @@ version=1
 PageLayoutDescrFile=
 LastNetListRead=
 UseCmpFile=1
-PadDrill=0.8128
-PadDrillOvalY=0.8128
-PadSizeH=1.524
-PadSizeV=1.524
+PadDrill=0
+PadDrillOvalY=0
+PadSizeH=3
+PadSizeV=0.85
 PcbTextSizeV=2.032
 PcbTextSizeH=1.524
 PcbTextThickness=0.3048
@@ -89,7 +91,7 @@ SolderMaskClearance=0.254
 SolderMaskMinWidth=0
 DrawSegmentWidth=0.381
 BoardOutlineThickness=0.381
-ModuleOutlineThickness=0.381
+ModuleOutlineThickness=0.1524
 [pcbnew/libraries]
 LibDir=
 LibName1=sockets
@@ -119,5 +121,3 @@ LibName24=C:/Engineering/KiCAD_Libraries/PCB/Switch
 LibName25=C:/Engineering/KiCAD_Libraries/PCB/Terminal_Block
 LibName26=C:/Engineering/KiCAD_Libraries/PCB/Test_Point
 LibName27=C:/Engineering/KiCAD_Libraries/PCB/Wire_to_Board
-[general]
-version=1

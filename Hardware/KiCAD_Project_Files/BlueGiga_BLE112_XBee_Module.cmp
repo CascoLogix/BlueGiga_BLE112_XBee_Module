@@ -1,60 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-09-13 BZR 4316)-product date = 11/3/2013 10:51:54 PM
-
-BeginCmp
-TimeStamp = /52578A70;
-Reference = U1;
-ValeurCmp = BLE112-A;
-IdModule  = BLE112;
-EndCmp
-
-BeginCmp
-TimeStamp = /5265E9BA;
-Reference = U2;
-ValeurCmp = AAT3221;
-IdModule  = SOT23-5_SMT;
-EndCmp
-
-BeginCmp
-TimeStamp = /52660248;
-Reference = J2;
-ValeurCmp = HEADER_F_XBEE_PTH;
-IdModule  = HEADER_F_2x7_2MM;
-EndCmp
-
-BeginCmp
-TimeStamp = /52660266;
-Reference = C5;
-ValeurCmp = 2.2u;
-IdModule  = 0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /5266027A;
-Reference = C4;
-ValeurCmp = 2.2u;
-IdModule  = 0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /52660290;
-Reference = LK1;
-ValeurCmp = SOLDER_LINK;
-IdModule  = SOLDER_LINK;
-EndCmp
-
-BeginCmp
-TimeStamp = /527705D9;
-Reference = J1;
-ValeurCmp = CONNECTOR_USB_TYPE_MINI_B;
-IdModule  = CONNECTOR_USB_TYPE_MINI_B_RA_F_SMT_MOLEX;
-EndCmp
-
-BeginCmp
-TimeStamp = /52771E69;
-Reference = C6;
-ValeurCmp = 0.47u;
-IdModule  = 0603;
-EndCmp
+Cmp-Mod V01 Created by CvPcb (2013-09-13 BZR 4316)-product date = 11/10/2013 10:03:45 PM
 
 BeginCmp
 TimeStamp = /52771F50;
@@ -78,38 +22,59 @@ IdModule  = 0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /52772325;
+TimeStamp = /5266027A;
+Reference = C4;
+ValeurCmp = 2.2u;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52660266;
+Reference = C5;
+ValeurCmp = 2.2u;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52771E69;
+Reference = C6;
+ValeurCmp = 0.47u;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52660248;
+Reference = J2;
+ValeurCmp = HEADER_F_XBEE_PTH;
+IdModule  = HEADER_XBEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52660290;
+Reference = LK1;
+ValeurCmp = SOLDER_LINK;
+IdModule  = SOLDER_LINK;
+EndCmp
+
+BeginCmp
+TimeStamp = /52804632;
 Reference = P1;
-ValeurCmp = HEADER_1X8;
-IdModule  = HEADER_100MIL_1R8P_PTH;
+ValeurCmp = HEADER_2X5;
+IdModule  = HEADER_50MIL_2R10P_SMT;
 EndCmp
 
 BeginCmp
-TimeStamp = /52772339;
-Reference = P3;
-ValeurCmp = HEADER_1X8;
-IdModule  = HEADER_100MIL_1R8P_PTH;
+TimeStamp = /52578A70;
+Reference = U1;
+ValeurCmp = BLE112-A;
+IdModule  = BLE112;
 EndCmp
 
 BeginCmp
-TimeStamp = /5277234D;
-Reference = P2;
-ValeurCmp = HEADER_1X3;
-IdModule  = HEADER_100MIL_1R3P_PTH;
-EndCmp
-
-BeginCmp
-TimeStamp = /52773DEC;
-Reference = P5;
-ValeurCmp = HEADER_1X10;
-IdModule  = HEADER_100MIL_1R10P_PTH;
-EndCmp
-
-BeginCmp
-TimeStamp = /52773FD8;
-Reference = P4;
-ValeurCmp = HEADER_1X2;
-IdModule  = HEADER_100MIL_1R2P_PTH;
+TimeStamp = /527EC570;
+Reference = U2;
+ValeurCmp = AAT3221;
+IdModule  = SOT23-5_SMT;
 EndCmp
 
 EndListe

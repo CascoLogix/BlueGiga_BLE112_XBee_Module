@@ -1,0 +1,9 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"BLE112";1;"BLE112-A";;;
+2;"C1,C2,C3";"0603";3;"1u";;;
+3;"C4,C5";"0603";2;"2.2u";;;
+4;"C6";"0603";1;"0.47u";;;
+5;"LK1";"SOLDER_LINK";1;"SOLDER_LINK";;;
+6;"U2";"SOT23-5_SMT";1;"AAT3221";;;
+7;"J2";"HEADER_XBEE";1;"HEADER_F_XBEE_PTH";;;
+8;"P1";"HEADER_50MIL_2R10P_SMT";1;"";;;

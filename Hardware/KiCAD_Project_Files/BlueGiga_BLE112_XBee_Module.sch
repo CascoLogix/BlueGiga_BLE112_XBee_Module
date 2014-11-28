@@ -49,12 +49,12 @@ LIBS:TI_MSP430
 LIBS:BlueGiga_BLE112_XBee_Module-cache
 EELAYER 24 0
 EELAYER END
-$Descr A 11000 8500
+$Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "Bluetooth Low Energy XBee"
-Date "Friday, September 27, 2013"
-Rev "1"
+Date "Saturday, October 25, 2014"
+Rev "2"
 Comp "Casco Logix"
 Comment1 ""
 Comment2 ""

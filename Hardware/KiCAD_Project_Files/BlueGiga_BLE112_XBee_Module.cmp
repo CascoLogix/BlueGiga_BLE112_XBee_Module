@@ -1,45 +1,45 @@
-Cmp-Mod V01 Created by CvPcb (2013-09-13 BZR 4316)-product date = 11/10/2013 10:03:45 PM
+Cmp-Mod V01 Created by PcbNew date = 10/27/2014 10:20:26 PM
 
 BeginCmp
 TimeStamp = /52771F50;
 Reference = C1;
 ValeurCmp = 1u;
-IdModule  = 0603;
+IdModule  = C0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /52771F6F;
 Reference = C2;
 ValeurCmp = 1u;
-IdModule  = 0603;
+IdModule  = C0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /52771F7A;
 Reference = C3;
 ValeurCmp = 1u;
-IdModule  = 0603;
+IdModule  = C0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5266027A;
 Reference = C4;
 ValeurCmp = 2.2u;
-IdModule  = 0603;
+IdModule  = C0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /52660266;
 Reference = C5;
 ValeurCmp = 2.2u;
-IdModule  = 0603;
+IdModule  = C0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /52771E69;
 Reference = C6;
 ValeurCmp = 0.47u;
-IdModule  = 0603;
+IdModule  = C0603;
 EndCmp
 
 BeginCmp

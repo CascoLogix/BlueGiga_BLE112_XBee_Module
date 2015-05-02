@@ -1,6 +1,6 @@
-update=11/10/2013 10:47:35 PM
+update=5/2/2015 12:55:45 PM
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetITyp=0
@@ -121,3 +121,16 @@ LibName44=C:/Engineering/KiCAD_Libraries/Schematic/Terminal_Block
 LibName45=C:/Engineering/KiCAD_Libraries/Schematic/Test_Point
 LibName46=C:/Engineering/KiCAD_Libraries/Schematic/TI_Luminary
 LibName47=C:/Engineering/KiCAD_Libraries/Schematic/TI_MSP430
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60

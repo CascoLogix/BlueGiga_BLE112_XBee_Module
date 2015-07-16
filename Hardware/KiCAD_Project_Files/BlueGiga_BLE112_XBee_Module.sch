@@ -10,7 +10,6 @@ LIBS:cmos4000
 LIBS:adc-dac
 LIBS:memory
 LIBS:xilinx
-LIBS:special
 LIBS:microcontrollers
 LIBS:dsp
 LIBS:microchip
@@ -53,8 +52,8 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "Bluetooth Low Energy XBee"
-Date "Saturday, May 02, 2015"
-Rev "4"
+Date "2015-07-14"
+Rev "5"
 Comp "Casco Logix"
 Comment1 ""
 Comment2 ""

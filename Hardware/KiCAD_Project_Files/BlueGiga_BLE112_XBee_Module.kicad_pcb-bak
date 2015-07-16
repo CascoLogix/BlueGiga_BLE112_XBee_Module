@@ -3,7 +3,7 @@
   (general
     (links 31)
     (no_connects 0)
-    (area 85.517999 72.8948 129.691934 105.190501)
+    (area 98.809499 80.409499 123.690501 105.190501)
     (thickness 1.6002)
     (drawings 12)
     (tracks 129)
@@ -20,8 +20,8 @@
 
   (layers
     (0 Front signal)
-    (1 Pwr.Cu signal)
-    (2 Gnd.Cu signal)
+    (1 Pwr.Cu signal hide)
+    (2 Gnd.Cu signal hide)
     (31 Back signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
@@ -81,13 +81,12 @@
     (pcbplotparams
       (layerselection 0x011fc_80000007)
       (usegerberextensions false)
-      (usegerberattributes true)
       (excludeedgelayer true)
       (linewidth 0.150000)
       (plotframeref false)
       (viasonmask false)
       (mode 1)
-      (useauxorigin false)
+      (useauxorigin true)
       (hpglpennumber 1)
       (hpglpenspeed 20)
       (hpglpendiameter 15)
@@ -264,11 +263,11 @@
     )
   )
 
-  (module HEADER_50MIL_2R10P_SMT locked (layer Back) (tedit 553BF1BB) (tstamp 544BF52A)
+  (module HEADER_50MIL_2R10P_SMT locked (layer Back) (tedit 55A6F454) (tstamp 544BF52A)
     (at 111.446 93.57 180)
     (tags Header)
     (path /553AE09D)
-    (fp_text reference P2 (at -4.454 1.27 450) (layer B.SilkS)
+    (fp_text reference P2 (at -5.054 -0.93 450) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.1524)) (justify mirror))
     )
     (fp_text value DEBUG (at 0 5.08 180) (layer B.SilkS) hide
@@ -383,11 +382,11 @@
     )
   )
 
-  (module C0603 (layer Front) (tedit 5478BD7B) (tstamp 52772932)
+  (module C0603 (layer Front) (tedit 55A6F44C) (tstamp 52772932)
     (at 101.6 90.3 180)
     (path /52771E69)
     (attr smd)
-    (fp_text reference C6 (at 0.06 -1.746 180) (layer F.SilkS)
+    (fp_text reference C6 (at 0.1 -2.7 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.1524)))
     )
     (fp_text value 0.47u (at 0 1.524 180) (layer F.SilkS) hide
